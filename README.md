@@ -8,6 +8,7 @@ Selected Awards
 * First Prize at ACM. MM GrandChallenge in Multi-Modal Video Identification Track in 2019
 * First Prize at AWS Self-driving car racing challenge in 2021
 * International Joint Conference on Artificial Intelligence (IJCAI 2022) Travel Grant
+* Third Prize at NeurIPS 2023: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html)
 
 ### Contact me
 
